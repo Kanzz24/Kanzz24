@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sakkan Meejan
 =====================================================================================================================================
 
-Developer and Graphic design
+Programmer(Dev) and Graphic design
 ----------------------------
 
-I'm studying python and Java for 3 mouth
+I'm studying React & Js Basic
 
 * 🌍  I'm based in bangkok
 
