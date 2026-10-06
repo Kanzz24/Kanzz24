@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sakkan Meejan</h1>
-<h3 align="center">Programmer Front-End & UX/UI </h3>
-<h3 align="center">Public Relations Team Google GDGoC <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="20" height="20" /></h3>
+<h2 align="center">Programmer Front-End & UX/UI </h2>
+<h2 align="center">Public Relations Team Google GDGoC <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="20" height="20" /></h2>
 
 ---
 
