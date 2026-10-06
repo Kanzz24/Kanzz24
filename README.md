@@ -1,12 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Sakkan Meejan</h1>
 <h2 align="center">Programmer Front-End & UX/UI </h2>
-<h2 align="center">Public Relations Team Google GDGoC <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="20" height="20" /></h2>
-
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 Studying at **King Mongkut's University of Technology Thonburi (KMUTT)**
+- 📢 **Public Relations Team at Google GDGoC KMUTT**
 - 📚 Currently learning **React & JavaScript Fundamentals**
 - 🎨 Passionate about **UX/UI Design & Software Development**
 - 🌍 Based in **Bangkok, Thailand**
