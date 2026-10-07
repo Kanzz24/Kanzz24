@@ -45,7 +45,15 @@
     </picture>
   </a>
 
- 
+
+
+<a href="mailto:sakkan2550@gmail.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/black" />
+    <img src="https://cdn.simpleicons.org/gmail/black" width="32" height="32" alt="Email" />
+  </picture>
+</a>
 
 
 
