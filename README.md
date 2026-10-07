@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying at **King Mongkut's University of Technology Thonburi (KMUTT)**
+- 🎓 Studying at **King Mongkut's University of Technology Thonburi (KMUTT) CMM**
 - 📢 **Public Relations Team at Google GDGoC KMUTT** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="18" height="20">
 - 📚 Currently learning **React & JavaScript Fundamentals**
 - 🎨 Passionate about **UX/UI Design & Software Development**
